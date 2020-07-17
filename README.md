@@ -2,22 +2,20 @@
 
 <br/>
 
-<a href="https://twitter.com/Vasylenko__">
-  <img align="left" alt="Vladyslav Vasylenko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://t.me/Vlad_Vasylenko">
+  <img align="left" alt="Vladyslav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vladvasylenko/">
   <img align="left" alt="Vladyslav's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Vlad_Vasylenko">
-  <img align="left" alt="Vladyslav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+<a href="https://twitter.com/Vasylenko__">
+  <img align="left" alt="Vladyslav Vasylenko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.codewars.com/users/richboyscrytoo">
   <img align="left" alt="Vladyslav's Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />
 </a>
 
+<br />
 <br />
 
 Hi, I'm Vladyslav Vasylenko, a Software Engineer 🚀 from Ukraine, currently, I'm working at [@Dev-Pro-net](https://github.com/Dev-Pro-net), owner of [@richboyscrytoo](https://github.com/richboyscrytoo) . Beside's programming, I enjoy playing guitar, watching films and traveling.
