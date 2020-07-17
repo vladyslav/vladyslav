@@ -19,6 +19,7 @@
 </a>
 
 <br />
+
 Hi, I'm Vladyslav Vasylenko, a Software Engineer 🚀 from Ukraine, currently, I'm working at [@Dev-Pro-net](https://github.com/Dev-Pro-net), owner of [@richboyscrytoo](https://github.com/richboyscrytoo) . Beside's programming, I enjoy playing guitar, watching films and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
