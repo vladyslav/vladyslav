@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Vladyslav!](https://vladyslav-vasylenko.github.io/) 
+### Hey 👋🏽, I'm [Vladyslav!](https://vladyslav.github.io/) 
 
 <br/>
 
@@ -51,4 +51,4 @@ Hi, I'm Vladyslav Vasylenko, a Software Engineer 🚀 from Ukraine, currently, I
 
 
 
-![Vladyslav's github stats](https://github-readme-stats.vercel.app/api?username=vladyslav-vasylenko&show_icons=true&hide_border=true)
+![Vladyslav's github stats](https://github-readme-stats.vercel.app/api?username=vladyslav&show_icons=true&hide_border=true)
