@@ -31,7 +31,7 @@ Hi, I'm Vladyslav Vasylenko, a Software Engineer 🚀 from Ukraine, currently, I
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: NAN IS A NUMBER!
 - 📫 How to reach me: dakar2016@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1gasPnwo77XfvUUYtTGEgeC_NOvNCctXW/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1JAKlJnjnSnDRXmVXeEDU0oN1gyzTk8NN/view?usp=sharing)
 
 **Languages and Tools:**  
 
