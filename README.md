@@ -29,7 +29,7 @@ Hi, I'm Vladyslav Vasylenko, a Software Engineer 🚀 from Ukraine, currently, I
 - 👯 I’m looking to collaborate on [RBCT](https://github.com/richboyscrytoo) 🤝;
 - 🤔 I’m looking for help in building big community of developers 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: NAN IS A NUMBER!
+- ⚡️ Fun-Fact: There are only 10 types of people in the world, those who understand binary, and those who don’t.
 - 📫 How to reach me: dakar2016@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1JAKlJnjnSnDRXmVXeEDU0oN1gyzTk8NN/view?usp=sharing)
 
