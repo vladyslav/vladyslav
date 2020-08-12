@@ -1,7 +1,5 @@
 ### Hello there👋🏽
-
 <br/>
-
 <a href="https://t.me/vladyslav_vasylenko">
   <img align="left" alt="Vladyslav Vasylenko | Telegram" width="22px" src="https://www.svgrepo.com/show/271091/telegram.svg" />
 </a>
@@ -18,11 +16,6 @@
   <img align="left" alt="Vladyslav Vasylenko | Codewars" width="22px" src="https://raw.githubusercontent.com/codewars/branding/1ff0d44db52ac4a5e3a1c43277dc35f228eb6983/logo.svg" />
 </a>
 
-<br />
-<br />
-
-Welcome🥳
-<br />
 My name is [Vladyslav Vasylenko](https://vladyslav.github.io/) and I’m a Software Engineer🚀.
 <br />
 Currently, I’m working at [@Dev-Pro-net](https://github.com/Dev-Pro-net), also I’m the owner of [@richboyscrytoo](https://github.com/richboyscrytoo). 
@@ -36,7 +29,6 @@ Beside’s programming, I enjoy traveling✈️, watching films📽 and playing 
 - 💻 I’m currently working on [social](https://github.com/vladyslav/social);
 - 🤓 For the last month I’ve been learning [Typescript](https://www.typescriptlang.org/); 
 - 🤝 I’m looking to collaborate on [RBCT](https://github.com/richboyscrytoo);
-- 🥳 I dream about building a big community of developers😭;
 - 🤣 Fun-Fact: There are only 10 types of people in the world, those who understand binary, and those who don’t.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dakar2016@gmail.com;
