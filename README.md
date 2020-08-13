@@ -28,7 +28,6 @@ Beside’s programming, I enjoy traveling✈️, watching films📽 and playing 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Speaking about me:**
-
 - 💻 I’m currently working on [social](https://github.com/vladyslav/social);
 - 🤓 For the last month I’ve been learning [Typescript](https://www.typescriptlang.org/); 
 - 🤝 I’m looking to collaborate on [RBCT](https://github.com/richboyscrytoo);
