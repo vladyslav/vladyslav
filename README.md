@@ -54,6 +54,5 @@ Beside’s programming, I enjoy traveling✈️, watching films📽 and playing 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-
-![Vladyslav's github stats](https://github-readme-stats.vercel.app/api?username=vladyslav&show_icons=true&hide_border=true)
+![Vladyslav's github stats](https://github-readme-stats.vercel.app/api?username=vladyslav&show_icons=true&hide_border=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav&layout=compact)](https://github.com/vladyslav/github-readme-stats)
