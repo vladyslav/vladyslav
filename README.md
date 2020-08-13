@@ -1,5 +1,5 @@
 # Hello there👋🏽
-<br/>
+
 <a href="https://t.me/vladyslav_vasylenko">
   <img align="left" alt="Vladyslav Vasylenko | Telegram" width="22px" src="https://www.svgrepo.com/show/271091/telegram.svg" />
 </a>
