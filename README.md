@@ -1,61 +1,112 @@
-# Hello there👋🏽
+<h1 align="center">Hello there 👋, I'm Vladyslav Vasylenko</h1>
+<h3 align="center">
+Software Engineer at <a href='https://dev.pro/' alt='Dev.Pro'>Dev.Pro</a>, owner of <a href='https://github.com/richboyscrytoo' alt='Rich Boys Cry Too'>RBCT</a></h3>
 
-<a href="https://t.me/vladyslav_vasylenko">
-  <img align="left" alt="Vladyslav Vasylenko | Telegram" width="22px" src="https://www.svgrepo.com/show/271091/telegram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vladvasylenko/">
-  <img align="left" alt="Vladyslav Vasylenko | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
-</a>
-<a href="https://twitter.com/vasylenko__">
-  <img align="left" alt="Vladyslav Vasylenko | Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/vladvasylenko_">
-  <img align="left" alt="Vladyslav Vasylenko | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />
-</a>
-<a href="https://www.codewars.com/users/richboyscrytoo">
-  <img align="left" alt="Vladyslav Vasylenko | Codewars" src="https://www.codewars.com/users/richboyscrytoo/badges/small" />
-</a>
 
-<br/>
-<br/>
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://t.me/vladyslav_vasylenko" target="_blank">
+  <img align="center" alt="Vladyslav Vasylenko | Telegram" height="30" width="40" src="https://www.svgrepo.com/show/271091/telegram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vladvasylenko" target="_blank>
+  <img align="center" alt="Vladyslav Vasylenko | LinkedIn" height="30" width="40" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
+</a>
+<a href="https://twitter.com/vasylenko__" target="_blank>
+  <img align="center" alt="Vladyslav Vasylenko | Twitter" height="30" width="40"" src="https://www.svgrepo.com/show/183608/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/vladvasylenko_" target="_blank>
+  <img align="center" alt="Vladyslav Vasylenko | Instagram" height="30" width="40" src="https://www.svgrepo.com/show/111199/instagram.svg" />
+</a>
+<a href="https://www.codewars.com/users/richboyscrytoo" target="_blank>
+  <img align="center" alt="Vladyslav Vasylenko | Codewars" height="30" width="40" src="https://www.codewars.com/users/richboyscrytoo/badges/small" />
+</a>
+<a href="https://dou.ua/users/vladislav-vasilenko-2" target="_blank>
+  <img align="center" alt="Vladyslav Vasylenko | DOU" height="30" width="40" src="https://cdn-cws-prod.azureedge.net/img/press/news/news-color/dou.jpg" />
+</a>
+</p>
 
-My name is [Vladyslav Vasylenko](https://vladyslav.github.io/) and I’m a Software Engineer🚀.
-<br />
-Currently, I’m working at [@Dev-Pro-net](https://github.com/Dev-Pro-net), also I’m the owner of [@richboyscrytoo](https://github.com/richboyscrytoo). 
-<br />
-Beside’s programming, I enjoy traveling✈️, watching films📽 and playing the guitar🎸.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Speaking about me:**
-- 💻 I’m currently working on [social](https://github.com/vladyslav/social);
-- 🤓 For the last month I’ve been learning [Typescript](https://www.typescriptlang.org/); 
-- 🤝 I’m looking to collaborate on [RBCT](https://github.com/richboyscrytoo);
-- 🤣 Fun-Fact: There are only 10 types of people in the world, those who understand binary, and those who don’t.
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: dakar2016@gmail.com;
+- 💻 I’m currently learning [RXJS](https://rxjs-dev.firebaseapp.com/).
+- 🤝 I’m looking to collaborate on [RBCT](https://github.com/richboyscrytoo).
+- 📝 Check my articles on [DOU](https://dou.ua/users/vladislav-vasilenko-2/).
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me **vvladyslav.vasylenko@gmail.com**.
 - 📝[Resume](https://drive.google.com/file/d/1JAKlJnjnSnDRXmVXeEDU0oN1gyzTk8NN/view?usp=sharing)
 
-**Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+   <a href="https://www.w3.org/html" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
+   </a>
+   <a href="https://www.w3schools.com/css" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://angular.io" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <br/>
+  <a href="https://sass-lang.com" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a> 
+  <a href="http://lesscss.org" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/> 
+  </a> 
+  <a href="https://jquery.com" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-plain.svg" alt="jquery" width="40" height="40"/> 
+  </a> 
+  <a href="https://flutter.dev" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="webpack" width="40" height="40"/> 
+  </a> 
+  <a href="https://webpack.js.org" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.photoshop.com/en" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe xd" width="40" height="40"/> 
+  </a>
+  <a href="https://www.figma.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+</p>
 
 ![Vladyslav's github stats](https://github-readme-stats.vercel.app/api?username=vladyslav&show_icons=true&hide_border=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav&layout=compact)](https://github.com/vladyslav/github-readme-stats)
