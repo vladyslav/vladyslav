@@ -3,7 +3,7 @@
 Software Engineer at <a href='https://dev.pro/' alt='Dev.Pro'>Dev.Pro</a>, owner of <a href='https://github.com/richboyscrytoo' alt='Rich Boys Cry Too'>RBCT</a></h3>
 
 <p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me<img align="center" src="https://komarev.com/ghpvc/?username=vladyslav" alt="vladyslav" : /></h3>
 <a href="https://t.me/vladyslav_vasylenko" target="_blank">
   <img alt="Vladyslav Vasylenko | Telegram" height="30" width="40" src="https://www.svgrepo.com/show/271091/telegram.svg" />
 </a>
@@ -19,13 +19,11 @@ Software Engineer at <a href='https://dev.pro/' alt='Dev.Pro'>Dev.Pro</a>, owner
 <a href="https://dou.ua/users/vladislav-vasilenko-2" target="_blank">
   <img alt="Vladyslav Vasylenko | DOU" height="30" width="40" src="https://cdn-cws-prod.azureedge.net/img/press/news/news-color/dou.jpg" />
 </a>
+<a href="https://www.codewars.com/users/richboyscrytoo">
+  <img alt="Vladyslav Vasylenko | Codewars" src="https://www.codewars.com/users/richboyscrytoo/badges/small" />
+</a>
+
 </p>
-
-
-
-
-
-
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -33,10 +31,9 @@ Software Engineer at <a href='https://dev.pro/' alt='Dev.Pro'>Dev.Pro</a>, owner
 - 💻 I’m currently learning [RXJS](https://rxjs-dev.firebaseapp.com/).
 - 🤝 I’m looking to collaborate on [RBCT](https://github.com/richboyscrytoo).
 - 📝 Check my articles on [DOU](https://dou.ua/users/vladislav-vasilenko-2/).
+- 📫 You can reach me via email: **vvladyslav.vasylenko@gmail.com**.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me **vvladyslav.vasylenko@gmail.com**.
-- 📝[Resume](https://drive.google.com/file/d/1JAKlJnjnSnDRXmVXeEDU0oN1gyzTk8NN/view?usp=sharing)
-
+- 📝 Feel free to check my [Resume](https://drive.google.com/file/d/1JAKlJnjnSnDRXmVXeEDU0oN1gyzTk8NN/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
