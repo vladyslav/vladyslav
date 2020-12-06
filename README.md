@@ -30,7 +30,7 @@ Software Engineer at <a href='https://dev.pro/' alt='Dev.Pro'>Dev.Pro</a>, owner
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Speaking about me:** 
-- 💻 I’m currently learning [RXJS](https://rxjs-dev.firebaseapp.com/).
+- 💻 I’m currently learning [RxJS](https://rxjs-dev.firebaseapp.com/).
 - 🤝 I’m looking to collaborate on [RBCT](https://github.com/richboyscrytoo).
 - 📝 Check my articles on [DOU](https://dou.ua/users/vladislav-vasilenko-2/).
 - 📫 You can reach me via email: **vvladyslav.vasylenko@gmail.com**.
@@ -69,10 +69,13 @@ Software Engineer at <a href='https://dev.pro/' alt='Dev.Pro'>Dev.Pro</a>, owner
   <a href="https://www.mongodb.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
+  <a href="https://flutter.dev" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <br/>
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
-  <br/>
   <a href="https://sass-lang.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a> 
@@ -82,21 +85,18 @@ Software Engineer at <a href='https://dev.pro/' alt='Dev.Pro'>Dev.Pro</a>, owner
   <a href="https://jquery.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-plain.svg" alt="jquery" width="40" height="40"/> 
   </a> 
-  <a href="https://flutter.dev" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
   <a href="https://git-scm.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://webpack.js.org" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
+  </a> 
+  <a href="https://code.visualstudio.com" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="webpack" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
-  <a href="https://code.visualstudio.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="webpack" width="40" height="40"/> 
-  </a> 
-  <a href="https://webpack.js.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
-  </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
   </a>
