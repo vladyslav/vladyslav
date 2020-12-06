@@ -33,6 +33,7 @@ Software Engineer at <a href='https://dev.pro/' alt='Dev.Pro'>Dev.Pro</a>, owner
 - 💻 I’m currently learning [RxJS](https://rxjs-dev.firebaseapp.com/).
 - 🤝 I’m looking to collaborate on [RBCT](https://github.com/richboyscrytoo).
 - 📝 Check my articles on [DOU](https://dou.ua/users/vladislav-vasilenko-2/).
+- 😂 Fun Fact: There are only 10 types of people in the world: Those who understand binary, and those who don’t
 - 📫 You can reach me via email: **vvladyslav.vasylenko@gmail.com**.
 - 💬 Ask me about anything, I am happy to help.
 - 📝 Feel free to check my [Resume](https://drive.google.com/file/d/1JAKlJnjnSnDRXmVXeEDU0oN1gyzTk8NN/view?usp=sharing)
