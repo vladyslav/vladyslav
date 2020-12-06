@@ -3,27 +3,22 @@
 Software Engineer at <a href='https://dev.pro/' alt='Dev.Pro'>Dev.Pro</a>, owner of <a href='https://github.com/richboyscrytoo' alt='Rich Boys Cry Too'>RBCT</a></h3>
 
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <a href="https://t.me/vladyslav_vasylenko" target="_blank">
-  <img align="center" alt="Vladyslav Vasylenko | Telegram" height="30" width="40" src="https://www.svgrepo.com/show/271091/telegram.svg" />
+  <img align="left" alt="Vladyslav Vasylenko | Telegram" height="30" width="40" src="https://www.svgrepo.com/show/271091/telegram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vladvasylenko" target="_blank>
-  <img align="center" alt="Vladyslav Vasylenko | LinkedIn" height="30" width="40" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
+<a href="https://www.linkedin.com/in/vladvasylenko" target="_blank">
+  <img align="left" alt="Vladyslav Vasylenko | LinkedIn" height="30" width="40" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 <a href="https://twitter.com/vasylenko__" target="_blank>
-  <img align="center" alt="Vladyslav Vasylenko | Twitter" height="30" width="40"" src="https://www.svgrepo.com/show/183608/twitter.svg" />
+  <img align="left" alt="Vladyslav Vasylenko | Twitter" height="30" width="40"" src="https://www.svgrepo.com/show/183608/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/vladvasylenko_" target="_blank>
-  <img align="center" alt="Vladyslav Vasylenko | Instagram" height="30" width="40" src="https://www.svgrepo.com/show/111199/instagram.svg" />
-</a>
-<a href="https://www.codewars.com/users/richboyscrytoo" target="_blank>
-  <img align="center" alt="Vladyslav Vasylenko | Codewars" height="30" width="40" src="https://www.codewars.com/users/richboyscrytoo/badges/small" />
+  <img align="left" alt="Vladyslav Vasylenko | Instagram" height="30" width="40"" src="https://www.svgrepo.com/show/111199/instagram.svg" />
 </a>
 <a href="https://dou.ua/users/vladislav-vasilenko-2" target="_blank>
-  <img align="center" alt="Vladyslav Vasylenko | DOU" height="30" width="40" src="https://cdn-cws-prod.azureedge.net/img/press/news/news-color/dou.jpg" />
+  <img align="left" alt="Vladyslav Vasylenko | DOU" height="30" width="40"" src="https://cdn-cws-prod.azureedge.net/img/press/news/news-color/dou.jpg" />
 </a>
-</p>
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
