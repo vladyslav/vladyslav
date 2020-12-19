@@ -109,5 +109,5 @@ Software Engineer at <a href='https://dev.pro/' alt='Dev.Pro'>Dev.Pro</a>, owner
   </a>
 </p>
 
-![Vladyslav's github stats](https://github-readme-stats.vercel.app/api?username=vladyslav&show_icons=true&hide_border=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav&layout=compact&hide_border=true&theme=midnight-purple)](https://github.com/vladyslav/github-readme-stats)
+![Vladyslav's github stats](https://github-readme-stats.vercel.app/api?username=vladyslav&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0d1117)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0d1117)](https://github.com/vladyslav/github-readme-stats)
