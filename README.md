@@ -5,25 +5,25 @@ Software Engineer at <a href='https://dev.pro/' alt='Dev.Pro'>Dev.Pro</a>, owner
 <p align="center">
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/vladyslav_vasylenko" target="_blank">
-  <img alt="Vladyslav Vasylenko | Telegram" height="30" width="40" src="https://www.svgrepo.com/show/271091/telegram.svg" />
+  <img alt="Vladyslav Vasylenko | Telegram" height="40" width="40" src="https://www.svgrepo.com/show/271091/telegram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vladvasylenko" target="_blank">
-  <img alt="Vladyslav Vasylenko | LinkedIn" height="30" width="40" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
+  <img alt="Vladyslav Vasylenko | LinkedIn" height="40" width="40" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 <a href="https://twitter.com/vasylenko__" target="_blank">
-  <img alt="Vladyslav Vasylenko | Twitter" height="30" width="40" src="https://www.svgrepo.com/show/183608/twitter.svg" />
+  <img alt="Vladyslav Vasylenko | Twitter" height="40" width="40" src="https://www.svgrepo.com/show/183608/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/vladvasylenko_" target="_blank">
-  <img alt="Vladyslav Vasylenko | Instagram" height="30" width="40" src="https://www.svgrepo.com/show/111199/instagram.svg" />
+  <img alt="Vladyslav Vasylenko | Instagram" height="40" width="40" src="https://www.svgrepo.com/show/111199/instagram.svg" />
 </a>
 <a href="https://www.codewars.com/users/richboyscrytoo">
-  <img alt="Vladyslav Vasylenko | Codewars" height="30" width="40" src="https://www.svgrepo.com/show/305890/codewars.svg" />
+  <img alt="Vladyslav Vasylenko | Codewars" height="40" width="40" src="https://github.com/codewars/branding/blob/master/logo.svg" />
 </a>
 <a href="https://leetcode.com/richboyscrytoo/">
-  <img alt="Vladyslav Vasylenko | leetCode" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" />
+  <img alt="Vladyslav Vasylenko | leetCode" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" />
 </a>
 <a href="https://dou.ua/users/vladislav-vasilenko-2" target="_blank">
-  <img alt="Vladyslav Vasylenko | DOU" height="30" width="40" src="https://cdn-cws-prod.azureedge.net/img/press/news/news-color/dou.jpg" />
+  <img alt="Vladyslav Vasylenko | DOU" height="40" width="50" src="https://cdn-cws-prod.azureedge.net/img/press/news/news-color/dou.jpg" />
 </a>
 </p>
 
